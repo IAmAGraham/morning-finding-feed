@@ -6,7 +6,8 @@
     <language>en-us</language>
     <itunes:author>The Morning Finding</itunes:author>
     <itunes:category text="News"/>
-    
+    <itunes:image href="https://iamagraham.github.io/morning-finding-feed/cover.png"/>
+<image><url>https://iamagraham.github.io/morning-finding-feed/cover.png</url><title>The Morning Finding</title><link>https://iamagraham.github.io/morning-finding-feed/</link></image>
     <item>
       <title>The Morning Finding — June 02, 2026</title>
       <description>A CISA contractor published AWS GovCloud credentials and a massive trove of agency secrets t</description>
